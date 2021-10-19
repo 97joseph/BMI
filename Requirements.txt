@@ -1,0 +1,19 @@
+Hello there.
+
+Kindly do for me the task below:
+
+1. After successful login to the system, the user will be prompted to calculate the BMI.
+
+2. After calculation of the BMI, the results will be displayed in another screen. 
+
+3. After pressing the next button, you will be prompted to enter the number of working hours, number of exercise hours a week, type of work (have several categories)
+
+4. Have a another form whereby one person will enter foods eaten recently (at least 3) and the system will determine the type of food.
+
+5. After the collection of all this data, the will be a get diet button that will suggest the type of food the user clearly requires 
+
+Note: the type of food suggested is dependant on the results of the BMI, number of working hours, number of exercise hours, type of job. 
+
+Example: an office clerk will not need the same type of food as a casual worker.
+
+NOTE: THE OUTPUT WILL BE A REPORT CONTAINING ALL THE DATA COLLECTED AND THE FOOD TYPE SUGGESTED (A LINK TO THE SOURCES OF FOOD)
